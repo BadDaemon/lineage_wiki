@@ -22,6 +22,8 @@ exclude:
   - .gitignore
   - device_sample/
   - scripts
+  - device_comparison.md
+  - _plugins/
 # these are the files and directories that jekyll will exclude from the build
 
 highlighter: rouge
